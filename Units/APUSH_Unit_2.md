@@ -4,14 +4,14 @@
 
  During the late 17th & 18th, 4 global conflicts has happened between competing European colonial power Britain, France, and Spain.
 
-	- The winner would win over the West Indies and Canada. And would also gain control over the lucrative colonial trade.
+ - The winner would win over the West Indies and Canada. And would also gain control over the lucrative colonial trade.
 
-	- The first three wars between England and France were *mostly* in Europe.
-		- And only secondarily on conflict in the colonies → European powers saw little value in sending troops to America. 
+ - The first three wars between England and France were *mostly* in Europe.
+ 	- And only secondarily on conflict in the colonies → European powers saw little value in sending troops to America. 
 
  In the final war (THE FRENCH & INDIAN WAR / Seven years old war (real creative, huh?)) the fighting began in the colonies and then spread to Europe. 
 	
-	- England and France now recognized the full importance of their colonies and shipped large numbers of troops overseas to North America rather than rely on “amateur” colonial forces.
+ - England and France now recognized the full importance of their colonies and shipped large numbers of troops overseas to North America rather than rely on “amateur” colonial forces.
 
 ## Wars timeline
 

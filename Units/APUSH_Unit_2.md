@@ -68,19 +68,19 @@
 #### The War in Three Phases
 
  1. Phase 1 (1754 - 1755)
-  * Primarily a local, North American conflict during this phase, at the urging of Benjamin Franklin, delegates met in Albany to devise a plan, called the **Albany Plan of Union**.
+    * Primarily a local, North American conflict during this phase, at the urging of Benjamin Franklin, delegates met in Albany to devise a plan, called the **Albany Plan of Union**.
 
-  * They rejected the plan, however, because they were wary of a consolidation of power
+    * They rejected the plan, however, because they were wary of a consolidation of power
  
  2. Phase 2 (1756 - 1757)
-  * Fighting in Europe and beyond, with the bulk still in North America English Secretary of State, William Pitt, took control of the war, planning military strategy and issuing orders to colonists
+    * Fighting in Europe and beyond, with the bulk still in North America English Secretary of State, William Pitt, took control of the war, planning military strategy and issuing orders to colonists
 
-  * English suffered defeat after defeat
+    * English suffered defeat after defeat
 
  3. Phase 3 (1758 - 1763)
-  * Pitt dispatched large numbers of British troops to America, turning the tide of the war in England’s favor
+    * Pitt dispatched large numbers of British troops to America, turning the tide of the war in England’s favor
 
-  * September 1760: French formally surrender
+    * September 1760: French formally surrender
 
 ##### Effects
 

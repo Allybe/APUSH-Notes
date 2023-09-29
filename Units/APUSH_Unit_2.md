@@ -35,15 +35,6 @@
 
 ## Seven Years War / French and Indian War, 1753 - 1763 
 
-### The French And Indian War 
- - Not actually between the French and Indians, but they did try to get allegiances with Native Americans.
-
- - Took more lives than the American Revolution and took place on three continents including the Caribbean 
-
- - The British won, but it left them deep in debt.. .
-
- - **REMINDER: Winner takes a lot of North American Territory.**
-
 ### The Seven years war
   
   During the late 17th & 18th, 4 global conflicts has happened between competing European colonial power Britain, France, and Spain.
@@ -57,11 +48,19 @@
 
  - England and France now recognized the full importance of their colonies and shipped large numbers of troops overseas to North America rather than rely on “amateur” colonial forces.
 
+### The French And Indian War 
+ - Not actually between the French and Indians, but they did try to get allegiances with Native Americans.
+
+ - Took more lives than the American Revolution and took place on three continents including the Caribbean 
+
+ - The British won, but it left them deep in debt.. .
+
+ - **REMINDER: Winner takes a lot of North American Territory.**
 
 ### Fort Necessity
 
   - In 1754, fighting broke out at Fort Necessity. Under George Washington's command, 1/3 of colonist soldiers were killed.
-    - "I led my men straight into a massacre, I witnessed their deaths firsthand, I made every mistake and felt the shame rise in me" - History Has Its Eyes On You, Hamilton.
+    - "I led my men straight into a massacre, I witnessed their deaths firsthand, I made every mistake and felt the shame rise in me" - History Has Its Eyes On You, George Washington.
 
   - The start of the French & Indian War, the native Americans side with the French.
 
@@ -89,11 +88,33 @@
 
     - To Spain, they ceded territory west of the Mississippi
 
-    - The British are *broke*.
+    - **The British are *broke*.**
       - England’s territorial claims expanded
       - The British emerged as the dominant North American colonial power
 
-# The French
+  - **Pontiac's Rebellion**
+    - With new lands, colonists began to move west over the Appalachian Mountains and into western tribal lands
+    
+    - An alliance of tribes under Chief Pontiac, struck back. 
+      - Fighting lasted 18 month
 
-France’s territory was vast, controlling the entire interior of the continent. To secure their hold, they founded a string of fortresses and trading posts. 
-Cause it doesn't help to *say* that you own some place unless your people are there. 
+    - To protect the colonists, King George III issued the Proclamation of 1763, barring Americans from settling west of the Appalachians.
+      - The colonist, simply ignored the order. LOL.
+
+  -  **Relationship between Britain and the Colonists**
+    - The British came away from the war with a low opinion of the colonial military effort. 
+    - The colonists took an opposite view of their military performance.
+
+  - **War debt and taxation**
+    - Previously, Britain exercised little direct control over the colonies and had allowed its Navigation Laws to go unenforced. 
+    - The wars had been extremely costly.
+    - Britain’s debt doubled in the wake of the war.
+    - England, as a result, ended the long period of salutary neglect and attempted to increase authority over the colonists
+    
+    - They passed several acts in the colonies to raise revenue:
+      - 1764 Currency Act
+      - 1764 Sugar Act
+      - 1765 Quartering Act
+
+
+

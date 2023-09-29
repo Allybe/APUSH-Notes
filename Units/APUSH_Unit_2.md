@@ -62,25 +62,26 @@
 ### Fort Necessity
 
  - In 1754, fighting broke out at Fort Necessity. Under George Washington's command, 1/3 of colonist soldiers were killed.
+  - "I led my men straight into a massacre, I witnessed their deaths firsthand, I made every mistake and felt the shame rise in me" - History Has Its Eyes On You, Hamilton.
 
  - The start of the French & Indian War, the native Americans side with the French.
 
 #### The War in Three Phases
 
  1. Phase 1 (1754 - 1755)
-  ⋅⋅* Primarily a local, North American conflict during this phase, at the urging of Benjamin Franklin, delegates met in Albany to devise a plan, called the **Albany Plan of Union**.
+  * Primarily a local, North American conflict during this phase, at the urging of Benjamin Franklin, delegates met in Albany to devise a plan, called the **Albany Plan of Union**.
 
-  ⋅⋅* They rejected the plan, however, because they were wary of a consolidation of power
+  * They rejected the plan, however, because they were wary of a consolidation of power
  
  2. Phase 2 (1756 - 1757)
-  ⋅⋅* Fighting in Europe and beyond, with the bulk still in North America English Secretary of State, William Pitt, took control of the war, planning military strategy and issuing orders to colonists
+  * Fighting in Europe and beyond, with the bulk still in North America English Secretary of State, William Pitt, took control of the war, planning military strategy and issuing orders to colonists
 
-  ⋅⋅* English suffered defeat after defeat
+  * English suffered defeat after defeat
 
  3. Phase 3 (1758 - 1763)
-  ⋅⋅* Pitt dispatched large numbers of British troops to America, turning the tide of the war in England’s favor
+  * Pitt dispatched large numbers of British troops to America, turning the tide of the war in England’s favor
 
-  ⋅⋅* September 1760: French formally surrender
+  * September 1760: French formally surrender
 
 ##### Effects
 

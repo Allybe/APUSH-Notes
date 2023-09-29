@@ -19,7 +19,6 @@
 
  - Relates to French And Indian War, just in Europe instead.
 
-
 ### American wars
 
 #### King William's War (NOT KING GEORGE)
@@ -52,7 +51,7 @@
   - The winner would win over the West Indies and Canada. And would also gain control over the lucrative colonial trade.
 
   - The first three wars between England and France were *mostly* in Europe.
-   - And only secondarily on conflict in the colonies → European powers saw little value in sending troops to America.
+    - And only secondarily on conflict in the colonies → European powers saw little value in sending troops to America.
  
  In the final war (THE FRENCH & INDIAN WAR / Seven years old war (real creative, huh?)) the fighting began in the colonies and then spread to Europe.
 
@@ -61,10 +60,10 @@
 
 ### Fort Necessity
 
- - In 1754, fighting broke out at Fort Necessity. Under George Washington's command, 1/3 of colonist soldiers were killed.
-  - "I led my men straight into a massacre, I witnessed their deaths firsthand, I made every mistake and felt the shame rise in me" - History Has Its Eyes On You, Hamilton.
+  - In 1754, fighting broke out at Fort Necessity. Under George Washington's command, 1/3 of colonist soldiers were killed.
+    - "I led my men straight into a massacre, I witnessed their deaths firsthand, I made every mistake and felt the shame rise in me" - History Has Its Eyes On You, Hamilton.
 
- - The start of the French & Indian War, the native Americans side with the French.
+  - The start of the French & Indian War, the native Americans side with the French.
 
 #### The War in Three Phases
 
@@ -85,14 +84,14 @@
 
 ##### Effects
 
- - **THE FRENCH LOST, TREATY OF PARIS (1763)**
-  - To England, the French ceded territory east of Mississippi 
+  - **THE FRENCH LOST, TREATY OF PARIS (1763)**
+    - To England, the French ceded territory east of Mississippi 
 
-  - To Spain, they ceded territory west of the Mississippi
+    - To Spain, they ceded territory west of the Mississippi
 
- - The British are *broke*.
-  - England’s territorial claims expanded
-  - The British emerged as the dominant North American colonial power
+    - The British are *broke*.
+      - England’s territorial claims expanded
+      - The British emerged as the dominant North American colonial power
 
 # The French
 

@@ -5,19 +5,12 @@
 
 ### European wars
 
-#### Nine Years' War / War Of The Grand Alliance
- Sep 27, 1688 – Sep 20, 1697
-
-#### War of the Spanish Succession
- Jul 9, 1701 – Sep 7, 1714
-
-#### War of the Austrian Succession
- Dec 16, 1740 – Oct 18, 1748
-
-#### Seven Years' War
- 1756 – 1763
-
- - Relates to French And Indian War, just in Europe instead.
+| Name                                        | Years                        |
+| --------------------------------------------|:-----------------------------|
+| Nine Years' War / War Of The Grand Alliance | Sep 27, 1688 – Sep 20, 1697  |
+| War of the Spanish Succession               | Jul 9, 1701 – Sep 7, 1714    |
+| War of the Austrian Succession              | Dec 16, 1740 – Oct 18, 1748  |
+| Seven Years' War                            | 1756 – 1763                  |
 
 ### American wars
 
@@ -25,7 +18,7 @@
  1688 - 1697
 
 #### Queen Anne's War
- 1702 - 1713 (British Victory)
+ 1702 - 1713
 
 #### King George's War
  1744 - 1748
@@ -123,7 +116,4 @@
       - **1765 The Stamp Act**
         - Impacted every colonist that purchased paper goods.
         - Affected all legal documents
-
-
-
 

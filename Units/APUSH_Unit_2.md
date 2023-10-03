@@ -112,15 +112,15 @@
     - England, as a result, ended the long period of salutary neglect and attempted to increase authority over the colonists
     
     - They passed several acts in the colonies to raise revenue:
-      - 1764 Currency Act
+      - **1764 Currency Act**
         - Forbade the colonies from issuing paper money
-      - 1764 Sugar Act
+      - **1764 Sugar Act**
         - Not much colonial resistance
         - Impacted merchants (tax was on import of sugar)
         - Tax was cut in half, but actually collected
-      - 1765 Quartering Act
+      - **1765 Quartering Act**
         - Requiring colonial authorities to provide food, drink, quarters, fuel, and transportation to British forces stationed in their towns or villages.
-      - 1765 The Stamp Act
+      - **1765 The Stamp Act**
         - Impacted every colonist that purchased paper goods.
         - Affected all legal documents
 

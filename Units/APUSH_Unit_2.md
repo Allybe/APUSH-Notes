@@ -14,17 +14,12 @@
 
 ### American wars
 
-#### King William's War (NOT KING GEORGE)
- 1688 - 1697
-
-#### Queen Anne's War
- 1702 - 1713
-
-#### King George's War
- 1744 - 1748
-  
-#### French and Indian War
- 1754 - 1763
+| Name                                 | Years       |
+| -------------------------------------|:------------|
+| King William's War (NOT KING GEORGE) | 1688 - 1697 |
+| Queen Anne's War                     | 1702 - 1713 |
+| King George's War                    | 1744 - 1748 |
+| French and Indian War                | 1754 - 1763 |
 
 ## Seven Years War / French and Indian War, 1753 - 1763 
 

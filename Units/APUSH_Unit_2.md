@@ -69,7 +69,7 @@
 
     * September 1760: French formally surrender
 
-##### Effects
+### Effects
 
   - **THE FRENCH LOST, TREATY OF PARIS (1763)**
     - To England, the French ceded territory east of Mississippi 
@@ -97,7 +97,7 @@
     - Previously, Britain exercised little direct control over the colonies and had allowed its Navigation Laws to go unenforced. 
     - The wars had been extremely costly.
     - Britain’s debt doubled in the wake of the war.
-    - England, as a result, ended the long period of salutary neglect and attempted to increase authority over the colonists
+    - England, as a result, ended the long period of salutary neglect and attempted to increase authority over the colonists    
     
     - They passed several acts in the colonies to raise revenue:
       - **1764 Currency Act**
@@ -111,4 +111,7 @@
       - **1765 The Stamp Act**
         - Impacted every colonist that purchased paper goods.
         - Affected all legal documents
+        - This impacted every colony and every social class, so everyone is pissed.
 
+    - **The Quartering Act of 1765**
+        - The act required colonists to house and feed British soldiers.
